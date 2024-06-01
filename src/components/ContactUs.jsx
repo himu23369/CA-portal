@@ -17,19 +17,19 @@ const ContactUs = () => {
             </p>
             <ul className="mt-6 space-y-4">
               <li className="flex items-center">
-                <FaEnvelope className="w-6 h-6 mr-2 text-sky-600" />
+                <FaEnvelope className="w-6 h-6 mr-2 text-sky-700" />
                 <span className="text-gray-800">
                   <a href="mailto: ca.agarwalanandandco@gmail.com">ca.agarwalanandandco@gmail.com</a>
                 </span>
               </li>
               <li className="flex items-center">
-                <FaPhone className="w-6 h-6 mr-2 text-sky-600" />
+                <FaPhone className="w-6 h-6 mr-2 text-sky-700" />
                 <span className="text-gray-800">
                   <a href="tel:97817-04611">97817-04611</a>
                 </span>
               </li>
               <li className="flex items-center">
-                <FaMapMarkerAlt className="w-6 h-6 mr-2 text-sky-600" />
+                <FaMapMarkerAlt className="w-6 h-6 mr-2 text-sky-700" />
                 <span className="text-gray-800">5744, MHC (Duplex), Sector 13, Chandigarh - 160101</span>
               </li>
             </ul>

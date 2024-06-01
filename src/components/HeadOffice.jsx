@@ -11,7 +11,7 @@ const HeadOffice = () => {
         <h2 className="text-4xl font-bold mb-6 text-600">Visit Our Head Office</h2>
         <p className="text-lg text-gray-700 mb-6">Explore our central location where we coordinate and serve our clients.</p>
         <address className="text-lg mb-6">{officeAddress}</address>
-        <a href={googleMapsLink} target="_blank" rel="noopener noreferrer" className="bg-sky-700 text-white px-6 py-3 rounded-md text-lg hover:bg-sky-600 focus:outline-none transition duration-300">
+        <a href={googleMapsLink} target="_blank" rel="noopener noreferrer" className="bg-sky-900 text-white px-6 py-3 rounded-md text-lg hover:bg-sky-700 focus:outline-none transition duration-300">
           Locate Us on Google Maps
         </a>
       </div>
